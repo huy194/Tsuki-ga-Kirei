@@ -60,11 +60,9 @@ I quickly get dressed, and grab the sandwich that my mom prepared for me last ni
 
 It's the middle of winter.
 
-The road is covered in snow, and snowflakes settle on the leafless branches.
-
 A light breeze causes the naked branches to rattle like wooden windchimes.
 
-I can't help but feel numb as the snow gradually thickens.
+I can't help but feel numb as the snow gradually thickens. Each of my breath is clearly visible under this cold weather.
 
 To be honest, this is one of those rare ocassions where I would pay close attention the nature around me, even though we're about to be late for school.
 
@@ -351,6 +349,9 @@ C : "That's okay, don't be embarrassed"
     "I'll make sure that you feel comfortable here, okay?"
     "I want to encourage people to participate in something that I love, which is Photography."
     "As president of the Photography Club, it's my job to make it a fun and exciting place for everyone"
+	"Everyone thinks of Photography to be something quite dull and uninteresting"
+	"But it's nothing like that. It's a form of art that takes a lot of skill to master"
+	"We just need a way to show them that!"
     
 A : "Wow, [C] is such a great leader"
 
