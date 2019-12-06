@@ -103,7 +103,7 @@ I look over, only to see that she's exhausted from all that emotion. Her tired e
 
 She looks so feeble and innocent in her sleep. I can't help but feel sympathetic for her.
 
-I wrap my arms around her, as we both try to figure out what to say next.
+I wrap my arms around her, while whispering into her ears.
 
 M : "Everything's going to be okay, you know!"
 	"..."
@@ -163,7 +163,7 @@ After a few seconds, she lets go of me, and we both stare into the blank and inf
 
 It feels as if I had just took a heavy weight off my chest.
 
-I feel relieved, and also kind of light-headed.
+I feel relieved, but also kind of light-headed.
 
 I'm not the type of people to give others emotional support, but it does feel nice to be helpful to someone every once in a while.
 
@@ -175,20 +175,124 @@ I somewhat want to strike up a conversation, just to understand better about wha
 
 But I don't want to ruin this beautiful moment where there's just me, [B], and the infinite beautiful blue sky upon us.
 
+What should I do?
+
 (choice)
 {
-	
+	(1) Ask about her interest in reading
+	(2) Keep quiet
 }
 
-M : "By the way..."
-	"You like reading, right?"
+if (1)
+{
+	M : "By the way..."
+		"You like reading, right?"
 
-B : "Y-Yeah..."
-	"You also came into the library earlier today. Can I take it as read that it's one of your hobbies, too?"
+	B : "Y-Yeah..."
+		"You also came into the library earlier today. Can I take it as read that it's one of your hobbies, too?"
 
-M : "Not really..."
-	"I'm more into animes,... But I do enjoy myself a good manga every now and then!"
+	M : "Not really..."
+		"I'm more into animes,... But I do enjoy myself a good manga every now and then!"
 
-I sit there quietly, as [B] starts to giggle. 
+	I sit there quietly, as [B] starts to giggle. Maybe she now understands what I meant when I said I'm a loser.
+
+	M : "I-It's embarrassing, right?"
+
+	B : "It's okay!! I don't judge anyone for their hobbies."
+		"Manga is just another form of literature. There's no need to be embarrassed about it."
+		"To be honest, I sometimes read light novels too, you know"
+		"I think it's special in its own way. It expresses emotions in such a way that not every form of art can do the same!"
+
+	M : "Wow, I'm surprised that you showed interest in those, [B]"
+		"I thought I was the only person to like it, you know"
+
+	B : "Well, there's a lot of things that you wouldn't know about a person unless you befriend them long enough"
+
+	M : "..."
+		"But light novels aren't your main interest, right?"
+		"What sort of books do you like to read?"
+
+	She shuffles around the question, letting out a laugh that sounds very strange.
+
+	It's nervous, but still has that lifting up-and-down quality present in everything she says.
+
+	B : "...Well, ..."
+		"Novels are my favorite. Especially historical ones"
+		"It feels so real to be immersed in all sorts of different cultures from the past"
+		"And they also emphasize humanism throughout the story, which is a really nice touch"
+		"..."
+		"Ever heard of 'A tale of two cities' by Charles Dickens? That's one of my favorite ones"
+
+	Contrary to her shyness from before, she appears to be a completely different person now.
+
+	I have never seen anyone talk so heatedly and unhestitatingly about a particular subject before.
+
+	I can't help but feel myself getting dragged into what she's seeing in her imagination.
+
+	B : "By the way, [M]"
+		"I have a question..."
+		"What were you looking for in the library earlier today?"
+
+	M : "Hm?"
+		"..."
+		"Just some books about photography. Not really anything too important."
+	
+	B : "Oh, I didn't know that you had interest in photography, too!"
+		"I guess there are still things that I don't know about you!"
+
+	She looks apologetic.
+
+	M : "N-No, it's not really a hobby or anything..."
+		"I gotted dragged into a photography club by my friend..."
+		"And I was just looking for some reference material, that's all"
+
+	Thinking back to how lonely she is, I feel a sudden urge to help her out.
+
+	M : "By the way, I feel like you would make a good member for the club"
+		"Want to join it?"
+
+	...
+	
+	B : "E-Eh?"
+		"Y-You want me to join your club?"
+
+	She blushes heavily.
+
+	M : "Yeah"
+		"There's a lot of talented and friendly people there!"
+		"You'll feel right at home!"
+	
+	B : "B-But..."
+		"I don't really have any knowledge about photography yet"
+		"Is that okay?..."
+
+	M : "Don't worry! It's not like I know a lot about it anyway"
+		"We can help each other improve"
+		"After all, it's all about having fun, isn't it?"
+		"Aren't you happy that you can make new friends now?"
+
+	B : "I-I guess so..."
+		"..."
+
+	She takes a few seconds to process whatever is going through her mind, as I check to see if we're still on time for the club.
+
+	M : "Well in that case, we should get going"
+		"It's almost 1:00PM"
+	
+	My attention diverts to the ringing school bell, which signifys that the club meeting is about to start.
+
+	I quickly stand up and offer a hand to help her do the same.
+
+	M : "Shall we go now?"
+
+	B : "U-Uhm"
+
+	I make my way through the long hallway, with [B] hurrily walking behind me.
+
+} 
+else
+{
+
+}
 
 
